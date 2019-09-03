@@ -1,0 +1,10 @@
+{
+  "executeResponseRecord" : {},
+  "inventoryExecuteActionTaskReference" : "IEATR701238",
+  "inventoryInstanceRecord" : {
+    "servicingInventoryTransactionRecord" : {},
+    "servicingPositionInventoryRecord" : {}
+  },
+  "inventoryExecuteRecordReference" : "IERR783855",
+  "inventoryExecuteActionTaskRecord" : {}
+}

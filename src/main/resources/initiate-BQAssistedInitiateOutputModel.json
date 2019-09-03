@@ -1,0 +1,13 @@
+{
+  "assistedInstanceStatus" : "assistedInstanceStatus",
+  "assistedInitiateActionRecord" : {},
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "726227"
+  },
+  "assistedInstanceRecord" : {
+    "employeeBusinessUnitReference" : "736440",
+    "customerContactReference" : "711146"
+  },
+  "assistedInstanceReference" : "AIR774430",
+  "assistedInitiateActionReference" : "AIAR707071"
+}

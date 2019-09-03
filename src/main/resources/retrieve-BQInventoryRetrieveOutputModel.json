@@ -1,0 +1,35 @@
+{
+  "inventoryRetrieveActionTaskRecord" : {},
+  "inventoryRetrieveActionTaskReference" : "IRATR789890",
+  "inventoryRetrieveActionResponse" : "inventoryRetrieveActionResponse",
+  "inventoryInstanceAnalysis" : {
+    "inventoryInstanceAnalysisReport" : {},
+    "inventoryInstanceAnalysisRecord" : {},
+    "inventoryInstanceAnalysisParameters" : "inventoryInstanceAnalysisParameters",
+    "inventoryInstanceAnalysisReportType" : "inventoryInstanceAnalysisReportType"
+  },
+  "inventoryInstanceRecord" : {
+    "servicingInventoryTransactionRecord" : {},
+    "servicingInventoryType" : "servicingInventoryType",
+    "servicingPositionInventoryRecord" : {}
+  },
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionFacilityReference" : "777988",
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "717096",
+    "servicingPositionLocation" : "servicingPositionLocation",
+    "servicingPositionFacilityType" : "servicingPositionFacilityType",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionType" : "servicingPositionType",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "inventoryInstanceReport" : {
+    "inventoryInstanceReportRecord" : {},
+    "inventoryInstanceReportType" : "inventoryInstanceReportType",
+    "inventoryInstanceReportParameters" : "inventoryInstanceReportParameters",
+    "inventoryInstanceReport" : {}
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cashPositionRetrieveActionResponse" : "cashPositionRetrieveActionResponse",
+  "cashPositionRetrieveActionTaskReference" : "CPRATR707015",
+  "cashPositionInstanceReport" : {
+    "cashPositionInstanceReportType" : "cashPositionInstanceReportType",
+    "cashPositionInstanceReportParameters" : "cashPositionInstanceReportParameters",
+    "cashPositionInstanceReport" : {},
+    "cashPositionInstanceReportRecord" : {}
+  },
+  "cashPositionRetrieveActionTaskRecord" : {},
+  "assistedInstanceRecord" : {
+    "employeeBusinessUnitReference" : "764938",
+    "customerContactReference" : "789577"
+  },
+  "cashPositionInstanceAnalysis" : {
+    "cashPositionInstanceAnalysisReport" : {},
+    "cashPositionInstanceAnalysisReportType" : "cashPositionInstanceAnalysisReportType",
+    "cashPositionInstanceAnalysisRecord" : {},
+    "cashPositionInstanceAnalysisParameters" : "cashPositionInstanceAnalysisParameters"
+  },
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionFacilityReference" : "739843",
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "756038",
+    "servicingPositionLocation" : "servicingPositionLocation",
+    "servicingPositionFacilityType" : "servicingPositionFacilityType",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionType" : "servicingPositionType",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "automatedInstanceRecord" : {
+    "businessUnitReference" : "755679"
+  },
+  "positionInstanceRecord" : {
+    "productInstanceReference" : "704215",
+    "servicingCurrency" : "USD",
+    "servicingCashTransactionReference" : "732801",
+    "servicingCashHoldingRecord" : {},
+    "servicingCashTransactionRecord" : {}
+  }
+}

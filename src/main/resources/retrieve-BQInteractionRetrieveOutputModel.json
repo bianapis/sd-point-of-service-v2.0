@@ -1,0 +1,36 @@
+{
+  "interactionRetrieveActionTaskRecord" : {},
+  "interactionInstanceAnalysis" : {
+    "interactionInstanceAnalysisReport" : {},
+    "interactionInstanceAnalysisReportType" : "interactionInstanceAnalysisReportType",
+    "interactionInstanceAnalysisRecord" : {},
+    "interactionInstanceAnalysisParameters" : "interactionInstanceAnalysisParameters"
+  },
+  "interactionRetrieveActionResponse" : "interactionRetrieveActionResponse",
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "784539"
+  },
+  "assistedInstanceRecord" : {
+    "customerContactReference" : "791531"
+  },
+  "interactionRetrieveActionTaskReference" : "IRATR755587",
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionFacilityReference" : "758871",
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "733689",
+    "servicingPositionLocation" : "servicingPositionLocation",
+    "servicingPositionFacilityType" : "servicingPositionFacilityType",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionType" : "servicingPositionType",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "interactionInstanceReport" : {
+    "interactionInstanceReportRecord" : {},
+    "interactionInstanceReportType" : "interactionInstanceReportType",
+    "interactionInstanceReportParameters" : "interactionInstanceReportParameters",
+    "interactionInstanceReport" : {}
+  }
+}

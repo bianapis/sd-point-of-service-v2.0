@@ -1,0 +1,15 @@
+{
+  "automatedInitiateActionReference" : "AIAR733418",
+  "automatedInstanceStatus" : "automatedInstanceStatus",
+  "automatedInstanceReference" : "AIR757377",
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "714110"
+  },
+  "assistedInstanceRecord" : {
+    "customerContactReference" : "719692"
+  },
+  "automatedInitiateActionRecord" : {},
+  "automatedInstanceRecord" : {
+    "businessUnitReference" : "777445"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cashPositionUpdateActionTaskRecord" : {},
+  "cashPositionUpdateActionTaskReference" : "CPUATR709947",
+  "updateResponseRecord" : {},
+  "assistedInstanceRecord" : {
+    "employeeBusinessUnitReference" : "727172",
+    "customerContactReference" : "761804"
+  },
+  "automatedInstanceRecord" : {
+    "businessUnitReference" : "784599"
+  },
+  "positionInstanceRecord" : {
+    "productInstanceReference" : "720248",
+    "servicingCurrency" : "USD",
+    "servicingCashTransactionReference" : "780431",
+    "servicingCashHoldingRecord" : {},
+    "servicingCashTransactionRecord" : {}
+  }
+}

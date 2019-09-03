@@ -1,0 +1,13 @@
+{
+  "cashPositionExecuteActionTaskReference" : "CPEATR757000",
+  "cashPositionExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "cashPositionExecuteRecordReference" : "CPERR790565",
+  "positionInstanceRecord" : {
+    "productInstanceReference" : "744961",
+    "servicingCurrency" : "USD",
+    "servicingCashTransactionReference" : "780402",
+    "servicingCashHoldingRecord" : {},
+    "servicingCashTransactionRecord" : {}
+  }
+}

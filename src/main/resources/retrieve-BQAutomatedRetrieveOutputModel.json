@@ -1,0 +1,39 @@
+{
+  "automatedRetrieveActionResponse" : "automatedRetrieveActionResponse",
+  "automatedInstanceReport" : {
+    "automatedInstanceReportParameters" : "automatedInstanceReportParameters",
+    "automatedInstanceReportRecord" : {},
+    "automatedInstanceReport" : {},
+    "automatedInstanceReportType" : "automatedInstanceReportType"
+  },
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "754646"
+  },
+  "assistedInstanceRecord" : {
+    "customerContactReference" : "738578"
+  },
+  "automatedRetrieveActionTaskReference" : "ARATR788498",
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionFacilityReference" : "774868",
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "766785",
+    "servicingPositionLocation" : "servicingPositionLocation",
+    "servicingPositionFacilityType" : "servicingPositionFacilityType",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionType" : "servicingPositionType",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "automatedInstanceRecord" : {
+    "businessUnitReference" : "710720"
+  },
+  "automatedRetrieveActionTaskRecord" : {},
+  "automatedInstanceAnalysis" : {
+    "automatedInstanceAnalysisReport" : {},
+    "automatedInstanceAnalysisRecord" : {},
+    "automatedInstanceAnalysisParameters" : "automatedInstanceAnalysisParameters",
+    "automatedInstanceAnalysisReportType" : "automatedInstanceAnalysisReportType"
+  }
+}

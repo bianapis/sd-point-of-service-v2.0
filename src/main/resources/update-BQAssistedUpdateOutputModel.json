@@ -1,0 +1,12 @@
+{
+  "assistedUpdateActionTaskRecord" : {},
+  "assistedUpdateActionTaskReference" : "AUATR721050",
+  "updateResponseRecord" : {},
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "796060"
+  },
+  "assistedInstanceRecord" : {
+    "employeeBusinessUnitReference" : "729543",
+    "customerContactReference" : "781112"
+  }
+}

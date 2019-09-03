@@ -1,0 +1,28 @@
+{
+  "pointofServiceOperatingSessionInstanceAnalysis" : {
+    "pointofServiceOperatingSessionInstanceAnalysisData" : "pointofServiceOperatingSessionInstanceAnalysisData",
+    "pointofServiceOperatingSessionInstanceAnalysisReport" : {},
+    "pointofServiceOperatingSessionInstanceAnalysisReportType" : "pointofServiceOperatingSessionInstanceAnalysisReportType"
+  },
+  "pointofServiceOperatingSessionRetrieveActionTaskRecord" : {},
+  "pointofServiceOperatingSessionRetrieveActionTaskReference" : "POSOSRATR767324",
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionFacilityReference" : "751113",
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "789429",
+    "servicingPositionLocation" : "servicingPositionLocation",
+    "servicingPositionFacilityType" : "servicingPositionFacilityType",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionType" : "servicingPositionType",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "pointofServiceOperatingSessionRetrieveActionResponse" : "pointofServiceOperatingSessionRetrieveActionResponse",
+  "pointofServiceOperatingSessionInstanceReportRecord" : {
+    "pointofServiceOperatingSessionInstanceReportData" : "pointofServiceOperatingSessionInstanceReportData",
+    "pointofServiceOperatingSessionInstanceReport" : {},
+    "pointofServiceOperatingSessionInstanceReportType" : "pointofServiceOperatingSessionInstanceReportType"
+  }
+}

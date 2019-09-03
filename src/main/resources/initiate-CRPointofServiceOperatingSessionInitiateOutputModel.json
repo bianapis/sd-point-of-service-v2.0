@@ -1,0 +1,15 @@
+{
+  "pointofServiceOperatingSessionInitiateActionRecord" : {},
+  "pointofServiceOperatingSessionInitiateActionReference" : "POSOSIAR732335",
+  "pointofServiceOperatingSessionInstanceStatus" : "pointofServiceOperatingSessionInstanceStatus",
+  "pointofServiceOperatingSessionInstanceRecord" : {
+    "servicingPositionOperatingSessionReportType" : "servicingPositionOperatingSessionReportType",
+    "servicingPositionReference" : "781773",
+    "servicingPositionActivityReport" : {},
+    "servicingPositionOperatingSessionStatistics" : "servicingPositionOperatingSessionStatistics",
+    "servicingPositionSchedule" : "servicingPositionSchedule",
+    "servicingPositionConfigurationSetup" : "servicingPositionConfigurationSetup",
+    "servicingPositionOperatingSessionReport" : {}
+  },
+  "pointofServiceOperatingSessionInstanceReference" : "POSOSIR787641"
+}

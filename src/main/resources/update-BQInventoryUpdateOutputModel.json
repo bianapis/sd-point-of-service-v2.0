@@ -1,0 +1,10 @@
+{
+  "inventoryUpdateActionTaskRecord" : {},
+  "inventoryInstanceRecord" : {
+    "servicingInventoryTransactionRecord" : {},
+    "servicingInventoryType" : "servicingInventoryType",
+    "servicingPositionInventoryRecord" : {}
+  },
+  "updateResponseRecord" : {},
+  "inventoryUpdateActionTaskReference" : "IUATR751771"
+}

@@ -1,0 +1,14 @@
+{
+  "automatedUpdateActionTaskReference" : "AUATR766490",
+  "updateResponseRecord" : {},
+  "interactionInstanceRecord" : {
+    "customerContactDialogueReference" : "738337"
+  },
+  "assistedInstanceRecord" : {
+    "customerContactReference" : "781503"
+  },
+  "automatedUpdateActionTaskRecord" : {},
+  "automatedInstanceRecord" : {
+    "businessUnitReference" : "754324"
+  }
+}
